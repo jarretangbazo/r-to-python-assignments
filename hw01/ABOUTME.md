@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="../assets/profile_photo.jpg" 
+  <img src="../assets/profile_photo_circle.jpg" 
        alt="Jarret Angbazo" 
-       width="180" 
-       height="180" 
+       width="200" 
+       height="200" 
        style="border-radius: 50%; object-fit: cover; border: 3px solid #333;">
   
   ### Jarret Angbazo
@@ -13,7 +13,7 @@
 
 
 ## About Me
-HELLO! My name is **Jarret Angbazo** and I am a Data & Social Scientist passionate about unlocking Africa’s potential through **economic development**, **infrastructure**, **energy**, and **innovative finance solutions**.
+HELLO! My name is [**Jarret Angbazo**](https://www.linkedin.com/in/jarretangbazo) and I am a Data & Social Scientist passionate about unlocking Africa’s potential through **economic development**, **infrastructure**, **energy**, and **innovative finance solutions**.
 
 I combine rigorous social research with data-driven insights to advance projects in development finance, energy access, and sustainable infrastructure across the continent.
 
