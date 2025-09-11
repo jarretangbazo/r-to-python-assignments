@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/profile_photo_circle.jpg" 
+  <img src="../assets/profile_photo_circle.png" 
        alt="Jarret Angbazo" 
        width="200" 
        style="border: 3px solid #333;">
