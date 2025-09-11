@@ -1,7 +1,8 @@
 # R to Python Learning Project
 Converting previous R assignments to Python for learning purposes
+
 ## Structure
-- `hw01/` - Assignment 1: Make an initial commit to GitHub
+- `hw01/` - Assignment 1: Edit README.md
 - `hw02/` - Assignment 2: Exploring and visualizing data
 - `hw03/` - Assignment 3: Wrangling and visualizing data
 - `hw04/` - Assignment 4: Programming in Python
@@ -12,10 +13,23 @@ Converting previous R assignments to Python for learning purposes
 - `hw09/` - Assignment 9: Geospatial visualization
 - `hw10/` - Assignment 10: Analyzing text data
 - `hw11/` - Assignment 11: Build a shiny application
-## Setup
+
+## Create virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+## Setup/Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+## Generate exact versions later
+```bash
+pip freeze > requirements-lock.txt
+```
+
 ## Running Assignments
 ```bash
 cd hw01
