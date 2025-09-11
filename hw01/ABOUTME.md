@@ -1,3 +1,5 @@
+![Jarret Angbazo](../assets/profile_photo.jpg)
+
 ## About Me
 HELLO! My name is [**Jarret Angbazo**](https://www.linkedin.com/in/jarretangbazo) and I am a Data & Social Scientist passionate about unlocking Africa’s potential through **economic development**, **infrastructure**, **energy**, and **innovative finance solutions**.
 
