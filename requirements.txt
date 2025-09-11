@@ -1,0 +1,45 @@
+## Core data manipulation and analysis
+pandas
+numpy
+## Data visualization
+matplotlib
+seaborn
+plotly
+bokeh
+## Jupyter notebooks for reproducible analysis
+jupyter
+jupyterlab
+ipykernel
+## Machine learning
+scikit-learn
+scipy
+## Web scraping and API requests
+requests
+beautifulsoup4
+scrapy
+selenium
+## Geospatial analysis and mapping
+folium
+geopandas
+shapely
+contextily
+## Text analysis and NLP
+nltk
+textblob
+wordcloud
+spacy
+## Web applications (Shiny equivalent)
+shiny
+streamlit
+dash
+flask
+## Additional utilities
+openpyxl
+xlrd
+lxml # XML/HTML parsing
+python-dotenv # Environment variables
+tqdm # Progress bars
+## Development and debugging
+ipdb # Interactive debugger
+pytest # Testing framework
+black # Code formatting
