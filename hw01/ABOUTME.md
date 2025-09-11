@@ -2,8 +2,7 @@
   <img src="../assets/profile_photo_circle.jpg" 
        alt="Jarret Angbazo" 
        width="200" 
-       height="200" 
-       style="border-radius: 50%; object-fit: cover; border: 3px solid #333;">
+       style="border: 3px solid #333;">
   
   ### Jarret Angbazo
   *Converting R to Python • Data Scientist*
