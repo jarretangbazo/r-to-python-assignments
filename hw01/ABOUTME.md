@@ -1,5 +1,5 @@
 ## About Me
-HELLO! My name is [**Jarret Angbazo**](https://www.linkedin.com/in/jarretangbazo) and I am a Data & Social Scientist passionate about unlocking Africa’s potential through *economic development*, *infrastructure*, *energy*, and *innovative finance solutions*.
+HELLO! My name is [**Jarret Angbazo**](https://www.linkedin.com/in/jarretangbazo) and I am a Data & Social Scientist passionate about unlocking Africa’s potential through **economic development**, **infrastructure**, **energy**, and **innovative finance solutions**.
 
 I combine rigorous social research with data-driven insights to advance projects in development finance, energy access, and sustainable infrastructure across the continent.
 
